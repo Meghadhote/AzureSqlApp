@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'NewAppmegha'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F38FF648323D449199A50D3897C55BB0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AAF4735D959A45909725A81E401F9536 }}
           package: .
